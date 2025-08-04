@@ -17,8 +17,10 @@ As a creator passionate about innovation and efficiency, I’m building intellig
 - Auto-formatting with intros and closings  
 - Grammar and filler cleanup  
 
-🔗 [Try it out](https://app.mindstudio.ai/agents/professional-email-assistant/run](https://app.mindstudio.ai/agents/professional-email-assistant-dd55a40a/run)  
-🔁 [Remix it](https://app.mindstudio.ai/agents/professional-email-assistant/remix](https://app.mindstudio.ai/agents/professional-email-assistant-dd55a40a/remix)
+🔗 [Try it out](https://app.mindstudio.ai/agents/professional-email-assistant-dd55a40a/run)
+
+🔁 [Remix it](https://app.mindstudio.ai/agents/professional-email-assistant-dd55a40a/remix)
+
 
 ---
 
@@ -31,8 +33,9 @@ As a creator passionate about innovation and efficiency, I’m building intellig
 - Sentiment analysis  
 - Quick insights for time-saving comprehension  
 
-🔗 [Try it out](https://app.mindstudio.ai/agents/analyze-x-threads/run](https://app.mindstudio.ai/agents/analyze-x-threads-9a239c41/run)
-🔁 [Remix it](https://app.mindstudio.ai/agents/analyze-x-threads/remix](https://app.mindstudio.ai/agents/analyze-x-threads-9a239c41/remix)
+🔗 [Try it out](https://app.mindstudio.ai/agents/analyze-x-threads/run)
+
+🔁 [Remix it](https://app.mindstudio.ai/agents/analyze-x-threads/remix)
 
 ---
 
@@ -45,8 +48,9 @@ As a creator passionate about innovation and efficiency, I’m building intellig
 - Report summarization  
 - Non-technical language explanations  
 
-🔗 [Try it out](https://app.mindstudio.ai/agents/financial-analyst/run](https://app.mindstudio.ai/agents/financial-analyst-d3467e00/run)  
-🔁 [Remix it](https://app.mindstudio.ai/agents/financial-analyst/remix](https://app.mindstudio.ai/agents/financial-analyst-d3467e00/remix)
+🔗 [Try it out](https://app.mindstudio.ai/agents/financial-analyst/run)
+
+🔁 [Remix it](https://app.mindstudio.ai/agents/financial-analyst/remix)
 
 ---
 
@@ -59,8 +63,9 @@ As a creator passionate about innovation and efficiency, I’m building intellig
 - Platform-ready formatting  
 - CTA and hashtag suggestions  
 
-🔗 [Try it out](https://app.mindstudio.ai/agents/social-media-post-generator/run](https://app.mindstudio.ai/agents/social-media-post-ideas-generator-ac1fef7d/run/)  
-🔁 [Remix it](https://app.mindstudio.ai/agents/social-media-post-generator/remix](https://app.mindstudio.ai/agents/social-media-post-ideas-generator-ac1fef7d/remix)
+🔗 [Try it out](https://app.mindstudio.ai/agents/social-media-post-generator/run)  
+
+🔁 [Remix it](https://app.mindstudio.ai/agents/social-media-post-generator/remix)
 
 ---
 
@@ -73,8 +78,9 @@ As a creator passionate about innovation and efficiency, I’m building intellig
 - Supports multiple content types  
 - Bullet and paragraph formats  
 
-🔗 [Try it out](https://app.mindstudio.ai/agents/content-summarizer/run](https://app.mindstudio.ai/agents/content-summarizer-ef149ef0/run)
-🔁 [Remix it]([https://app.mindstudio.ai/agents/content-summarizer/remix](https://app.mindstudio.ai/agents/content-summarizer-ef149ef0/remix)
+🔗 [Try it out](https://app.mindstudio.ai/agents/content-summarizer/run)
+
+🔁 [Remix it]([https://app.mindstudio.ai/agents/content-summarizer/remix)
 
 ---
 
