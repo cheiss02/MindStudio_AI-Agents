@@ -80,7 +80,7 @@ As a creator passionate about innovation and efficiency, I’m building intellig
 
 🔗 [Try it out](https://app.mindstudio.ai/agents/content-summarizer/run)
 
-🔁 [Remix it]([https://app.mindstudio.ai/agents/content-summarizer/remix)
+🔁 [Remix it](https://app.mindstudio.ai/agents/content-summarizer/remix)
 
 ---
 
