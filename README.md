@@ -114,5 +114,5 @@ If you're interested in custom AI agent solutions, prompt strategy, or workflow 
 
 - 📬 [Email Me](mailto:katherine.lazo24@gmail.com)  
 - 💼 [LinkedIn](linkedin.com/in/katherine-lazo-1a8349b2)  
-- 🌐 [Personal Website](https://www.katherinelazo.net) *(optional)*  
+- 🌐 [Personal Website](https://www.katherinelazo.net)
 - ⭐ GitHub repo updates weekly!
