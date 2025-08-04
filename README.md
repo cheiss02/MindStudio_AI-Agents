@@ -33,9 +33,9 @@ As a creator passionate about innovation and efficiency, I’m building intellig
 - Sentiment analysis  
 - Quick insights for time-saving comprehension  
 
-🔗 [Try it out](https://app.mindstudio.ai/agents/analyze-x-threads/run)
+🔗 [Try it out](https://app.mindstudio.ai/agents/analyze-x-threads-9a239c41/run)
 
-🔁 [Remix it](https://app.mindstudio.ai/agents/analyze-x-threads/remix)
+🔁 [Remix it](https://app.mindstudio.ai/agents/analyze-x-threads-9a239c41/remix)
 
 ---
 
@@ -48,9 +48,9 @@ As a creator passionate about innovation and efficiency, I’m building intellig
 - Report summarization  
 - Non-technical language explanations  
 
-🔗 [Try it out](https://app.mindstudio.ai/agents/financial-analyst/run)
+🔗 [Try it out](https://app.mindstudio.ai/agents/financial-analyst-d3467e00/run)
 
-🔁 [Remix it](https://app.mindstudio.ai/agents/financial-analyst/remix)
+🔁 [Remix it](https://app.mindstudio.ai/agents/financial-analyst-d3467e00/remix)
 
 ---
 
@@ -63,9 +63,9 @@ As a creator passionate about innovation and efficiency, I’m building intellig
 - Platform-ready formatting  
 - CTA and hashtag suggestions  
 
-🔗 [Try it out](https://app.mindstudio.ai/agents/social-media-post-generator/run)  
+🔗 [Try it out](https://app.mindstudio.ai/agents/social-media-post-ideas-generator-ac1fef7d/run)
 
-🔁 [Remix it](https://app.mindstudio.ai/agents/social-media-post-generator/remix)
+🔁 [Remix it](https://app.mindstudio.ai/agents/social-media-post-ideas-generator-ac1fef7d/remix)
 
 ---
 
@@ -78,9 +78,9 @@ As a creator passionate about innovation and efficiency, I’m building intellig
 - Supports multiple content types  
 - Bullet and paragraph formats  
 
-🔗 [Try it out](https://app.mindstudio.ai/agents/content-summarizer/run)
+🔗 [Try it out](https://app.mindstudio.ai/agents/content-summarizer-ef149ef0/run)
 
-🔁 [Remix it](https://app.mindstudio.ai/agents/content-summarizer/remix)
+🔁 [Remix it](https://app.mindstudio.ai/agents/content-summarizer-ef149ef0/remix)
 
 ---
 
